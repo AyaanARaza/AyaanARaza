@@ -4,7 +4,7 @@ Hi, I'm Ayaan!
 
 📖 I am learning Angular and C++
 
-🎓 I am proficient, by my standards, in Python and Java. These are the languages I know how to do the most in.
+🎓 I am proficient in Python and Java. These are the languages I know how to do the most in.
 
 💾 Most of my code will be posted here on GitHub so that people can use my smaller projects to learn and make bigger projects.
 
